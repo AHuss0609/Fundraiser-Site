@@ -21,7 +21,7 @@ import React from "react";
 /**********************
  * 1) CONFIG
  **********************/
-const GOAL_AMOUNT = 25000;
+const GOAL_AMOUNT = 10000;
 const ADMIN_PIN = "DECA2025";
 
 // GitHub Pages is static, so Stripe must point to an external serverless function URL.
